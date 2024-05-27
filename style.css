@@ -1,0 +1,1291 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    color: #444444;
+}
+
+/******************************************** section one ************************************************/
+
+.one{
+    padding: 0 0 100px 0 ;
+    background: url(images/one\ bacgroud.png) top center;
+    background-size: 40% 100%;
+    position: relative;
+    background-repeat: no-repeat;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: white !important;
+    padding: 19px !important;
+    margin-left: -7px;
+    font-size: 12px;
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: #FFA800 !important;
+}
+.navbar-brand img{
+   height: 65px;
+   width: 200px;
+}
+.navbar{
+    background-color:none;
+}
+.navbar ul{
+    margin-left:9px;
+}
+.navbar li{
+    padding: 1px;
+}
+.nav-item a,span{
+    color: #FFA800;
+}
+.nav-item a{
+    color: white;
+    font-weight: 600;
+    font-size: 15px;
+}
+.nav-item a:hover{
+    color: #FFA800;
+}
+
+.get{
+    margin-left: 30px;
+}
+.get a{
+    text-decoration: none;
+    color: #fff;
+    background-color: #FFA800;
+    padding: 12px 15px;
+    border-radius: 30px;
+    font-size: 17px;
+    font-weight: 700;
+}
+.get a:hover{
+    color: white;
+}
+.leftone h1{
+    margin-left: 22px;
+    font-size: 45px;
+    font-weight: 700;
+}
+.imgspan{
+    color: black;
+    font-size: 45px;
+    font-weight: 700;
+    background-image: url(images/get\ background.png);
+    background-position: center;
+    background-size: 100% ;
+    padding: 15px;
+}
+.bgspan{
+    font-size: 45px;
+    font-weight: 700;
+}
+.leftone{
+    padding-top: 60px;
+}
+.leftone img{
+    text-align: justify;
+    display: block;
+    margin-left: 21px;
+}
+.ban-list {
+    margin: 20px 0 30px;
+}
+.ban-list i{
+    color: #FFA800;
+    font-weight: 800;
+    font-size: 21px;
+}
+.ban-list ul{
+    text-align: justify;
+    padding: 0px;
+    margin-left: 20px;
+}
+.ban-list li{
+    list-style: none;
+    font-size: 18px;
+    font-weight: 400;
+    color: #000;
+    line-height: 34px;
+}
+
+.lefttwo {
+    background: #0E0239;
+    padding: 30px;
+    border-radius: 10px;
+}
+.lefttwo h3 {
+    font-weight: 600;
+    font-size: 15px;
+    color: #FFA800;
+}
+.lefttwo strong {
+    display: block;
+    color: white;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 50px;
+}
+
+.sa {
+    padding: 8px 0px 5px 0px;
+}
+.form input{
+    width: 100%;
+    height: 45px;
+    color: white;
+    background: none;
+    outline: none;
+    border: 1px solid white;
+    border-radius: 9px;
+    background: transparent;
+    padding-left: 25px;
+
+}
+.form input::placeholder{
+    color: white;
+}
+.form textarea{
+    width: 100%;
+    color: white;
+    background: none;
+    outline: none;
+    border: 1px solid white;
+    border-radius: 9px;
+    background: transparent;
+    padding-left: 25px;
+}
+.form textarea::placeholder{
+    color: white;
+}
+.form select{
+    width: 100%;
+    height: 45px;
+    color: white;
+    background: none;
+    outline: none;
+    border: 1px solid white;
+    border-radius: 9px;
+    background: transparent;
+    padding-left: 20px;
+}
+
+.form option{
+    background-color: #0E0239;
+    color: white;
+}
+
+.signup{
+    padding: 12px 0 0 ;
+}
+.signup a{
+     display: block;
+     padding: 11px 40px;
+     color: white;
+     background-color: #FFA800;
+     text-decoration: none;
+     font-size: 20px;
+}
+.signup a:hover{
+    color: white;
+    background-color: #0E0239;
+    border:1px solid #fff;
+}
+
+/******************************************** section two ************************************************/
+
+.two{
+    background-image: url(images/two\ bacground.png);
+    background-size: contain;
+    background-position: 49%;
+    text-align: center;
+    background-repeat: no-repeat;
+}
+
+.left-two img{
+    width: 100%;
+    display: block;
+}
+.right-two{
+    margin-right: 10%;
+}
+.right-two span{
+    background-image: url(images/get\ background.png);
+     background-size: 100% 100%;
+     color: black;
+     background-position: center;
+     padding: 15px;
+}
+.col-lg-3 {
+    flex: 0 0 auto;
+    width: 25%;
+}
+.original-one{
+    display: flex;
+    background-image: url(images/border\ right\ two.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 15px 0;
+}
+.original-one h3{
+    color: #fff;
+    background-image: url(images/right\ two.png);
+    background-size:contain;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 104px;
+    position: absolute;
+    text-align: left;
+    z-index: 1;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.img-about{
+    position: relative;
+    width: 70%;
+    top: 20px;
+
+}
+
+.high-one{
+    border-radius: 30px;
+    border: 3px solid whitesmoke;
+    background: #fff;
+    position: relative;
+    top: 1px;
+    padding: 9px;
+}
+.high-one h4{
+    padding-left: 100px;
+    padding-top:30px ;
+    font-size: 17px;
+}
+
+
+
+.original-two{
+    display: flex;
+    background-image: url(images/border\ right\ two.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 5px 0 15px 0;
+}
+.original-two h3{
+    color: #fff;
+    background-image: url(images/right\ two.png);
+    background-size:contain;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 104px;
+    position: absolute;
+    text-align: left;
+    z-index: 1;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.img-about{
+    position: relative;
+    width: 70%;
+    top: 20px;
+
+}
+
+.high-two{
+    border-radius: 30px;
+    border: 3px solid whitesmoke;
+    background: #fff;
+    position: relative;
+    top: 1px;
+    padding: 9px;
+}
+.high-two h4{
+    padding-left: 100px;
+    padding-top:30px ;
+    font-size: 17px;
+}
+
+
+.original-three{
+    display: flex;
+    background-image: url(images/border\ right\ two.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 5px 0 15px 0;
+}
+.original-three h3{
+    color: #fff;
+    background-image: url(images/right\ two.png);
+    background-size:contain;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 104px;
+    position: absolute;
+    text-align: left;
+    z-index: 1;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.img-about{
+    position: relative;
+    width: 70%;
+    top: 20px;
+
+}
+
+.high-three{
+    border-radius: 30px;
+    border: 3px solid whitesmoke;
+    background: #fff;
+    position: relative;
+    top: 1px;
+    padding: 9px;
+}
+.high-three h4{
+    padding-left: 100px;
+    padding-top:30px ;
+    font-size: 17px;
+}
+
+
+
+/******************************************** section three ************************************************/
+.team{
+    padding: 50px 0;
+}
+.team span{
+    background-image: url(images/get\ background.png);
+    color: black;
+    background-size: contain;
+    padding: 15px;
+}
+
+.team-up{
+    padding-bottom: 15px;
+    padding-top: 20px;
+    background-color: #F8ECD7;
+    border-radius: 25px;
+    transform: scale(0.8);
+}
+.team-one{
+    padding: 28px 30px;
+    border-radius: 25px;
+    border: 1px solid #FFA800;
+    position: relative;
+    background-color: #fff;
+    top: -40px;
+}
+.lona{
+    display: flex;
+    border-bottom: 3px solid gainsboro;
+    
+}
+.lona-one{
+    padding-left: 20px;
+}
+.lona-two{
+    padding-left: 20px;
+}
+
+.lona-three{
+    display: flex;
+}
+.fonts{
+    padding-left: 7px;
+}
+.fonts i{
+    color: #FFA800;
+}
+
+.degree{
+    display: flex;
+    padding: 20px 0;
+    border-bottom: 3px solid gainsboro;
+}
+.degree-one{
+    padding-left: 20px;
+}
+.degree-two{
+    padding-left: 30px;
+}
+.degree-two h5{
+    padding-top: 10px;
+}
+.competences{
+    padding: 20px 0 20px 20px;
+}
+.competences p{
+    font-size: 20px;
+}
+
+.history{
+    padding: 20px 0 0 50px;
+}
+.history a{
+    text-decoration: none;
+    background-color: #EBEBEB;
+    border-radius: 20px;
+    font-size: 15px;
+    padding: 12px 20px;
+    color: black;
+}
+.history a:hover{
+    color: black;
+}
+
+.recent{
+    border-bottom: 3px solid gainsboro;
+}
+.recent h4{
+    font-size: 25px;
+    font-weight: 600;
+}
+.id{
+    display: flex;
+    padding: 25px 0;
+}
+.id i{
+    color: #FFA800;
+    font-size: 40px;
+}
+.user-id{
+    padding-left: 15px;
+}
+.user-id p{
+    font-size: 20px;
+}
+.research-paper{
+    padding: 25px 0;
+}
+.about-hire{
+    display: flex;
+    padding-top: 20px;
+}
+.about a{
+   color: black;
+   text-decoration: none;
+   background-color: white;
+   border: 2px solid #FFA800;
+   padding: 12px 30px;
+   border-radius: 20px;
+}
+.about a:hover{
+    background-color: #FFA800;
+    color: white;
+}
+.hire{
+    padding-left: 6px;
+}
+.hire a{
+    color: white;
+    text-decoration: none;
+    text-decoration: none;
+    background-color: #FFA800;
+    padding: 12px 30px;
+    border-radius: 20px;
+}
+.hire a:hover{
+    background-color: white;
+    color: black;
+}
+
+
+.team-slider .slick-dots li.slick-active button:before {
+    opacity: .75;
+    color: #ffa800;
+    background-color: #FFA800;
+    border-radius: 10px;
+}
+.team-slider .slick-dots li button:before {
+    opacity: .75;
+    border: 1px solid #FFA800;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.team-slider .slick-dots li button:before {
+    font-size: 0;
+ }
+
+ /******************************************** section four ************************************************/
+ .four{
+     padding: 40px 0 20px 0;
+ }
+ .types span{
+     background-image: url(images/get\ background.png);
+     color: black;
+     padding: 10px;
+     background-size: contain;
+ }
+ .nav button{
+     color: black;
+     position: relative;   
+     padding: 15px 40px 15px 50px;
+     text-align: left;
+     font-size: 10px;
+ }
+ .nav-pills .nav-link.active, .nav-pills .show.nav-link {
+    color: #fff;
+    background-color: #0E0239 !important;
+    border-radius: 120px;
+}
+ .nav img{
+     position: absolute;
+     width: 50px;
+     left: -10px;
+     top: -3px;
+     padding: 10px 0 10px 17px;
+ }
+ .tab-pane p{
+     font-size: 15px;
+     color: white;
+     padding: 35px 40px 40px 40px
+ }
+ .four .tab-content{
+     background-color: #0E0239 !important;
+ }
+ #v-pills-home{
+     position: relative;
+ }
+ div#v-pills-home img {
+    width: 300px;
+    position: absolute;
+    top: 130px;
+    right: 0;
+}
+.hire2{
+    padding: 40px 0 50px 40px;
+}
+.hire2 a{
+    background-color: #FFA800;
+    padding: 15px 13px;
+    color: white;
+    border-radius: 40px;
+    text-decoration: none;
+}
+.hire2 a:hover{
+    background-color: #0E0239;
+    color: white;
+    border:1px solid white;
+}
+
+
+/******************************************** section five ************************************************/
+
+.five{
+    background-image: url(images/five-cover.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 50px;
+}
+.ask h2{
+    color: white;
+    padding: 5px;
+}
+.ask span{
+    background-image: url(images/get\ background.png);
+    color: white;
+    padding: 17px;
+    background-size: contain;
+}
+.call{
+    display: flex;
+    margin-top: 40px;
+}
+.call1 a{
+    background-color: #FFA800;
+    padding: 15px 32px;
+    color: white;
+    border-radius: 40px;
+    text-decoration: none;
+}
+.call1 a:hover{
+    background-color: #0E0239;
+    color: #FFA800;
+    border:1px solid  #FFA800;
+}
+
+.call2{
+    margin-left: 10px;
+}
+.call2 a{
+    background-color: white;
+    padding: 15px 32px;
+    color: black;
+    border-radius: 40px;
+    text-decoration: none;
+}
+.call2 a:hover{
+    background-color: #FFA800;
+    color: white;
+}
+
+/******************************************** section six ************************************************/
+.write{
+    padding: 30px 0;
+}
+.write span{ 
+      color: black;
+      background-image: url(images/get\ background.png);
+      background-repeat: no-repeat;
+      padding: 15px;
+      background-size: contain;
+}
+
+.accordion-item {
+    background-color: #fff;
+    border: none !important;
+}
+.accordion-button {
+    border: 1px solid #FFA800 !important;
+    border-radius: 20px !important;
+    margin-bottom: 20px;
+}
+
+/******************************************** section seven ************************************************/
+.seven{
+   padding-bottom: 30px;
+}
+.see{
+    padding: 20px 0;
+}
+.see span{
+            color: black;
+      background-image: url(images/get\ background.png);
+      background-repeat: no-repeat;
+      padding: 15px 22px 0 23px;
+      background-size: contain;
+}
+
+
+.see p {
+    margin: 0;
+    margin: 0;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: "Poppins", sans-serif;
+    color: #151515;
+    text-align: center;
+    width: 80%;
+    margin: 2px auto;
+}
+
+
+.cale{
+    background-color: #F8ECD7;
+    padding: 32px !important;
+    display: flex;
+    border-radius: 20px;
+}
+.cal1 {
+    border: 1px solid #FFA800;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 10px;
+    height: 250px;
+}
+
+.tm h5 {
+    font-size: 15px;
+    text-align: center;
+    padding: 23px 0 28px 0;
+}
+.tm h4 {
+    font-size: 17px;
+    text-align: center;
+    font-weight: 400;
+    padding-top: 13px;
+}
+
+.time h2 {
+    text-align: center;
+    padding-top: 2px;
+    font-size: 25px;
+}
+.mm{
+    padding-top: 20px;
+}
+.mm p{
+    font-size: 14px;
+}
+.mm h4 {
+    font-weight: 300;
+    font-size: 13px;
+    margin-top: 14px;
+}
+.mm span{
+    color: black;
+    font-weight: 500;
+    font-size: 17px;
+}
+.hire-second{
+    padding-top: 35px;
+}
+.hire-second a{
+    color: white;
+    text-decoration: none;
+    background-color: #FFA800;
+    padding: 15px 30px;
+    border-radius: 25px;
+}
+.hire-second a:hover{
+    background-color: white;
+    color: black;
+}
+
+.tab-content {
+    background-color: white;
+}
+
+.ban-list span{
+   color: black;
+   padding-left: 10px;
+}
+.ban-list li.i{
+    font-weight: 500;
+}
+div#nav-tab {
+    padding-top: 71px;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    font-size: 18px;
+    padding: 18px;
+}
+.nav-tabs .nav-link {
+    font-size: 18px;
+}
+
+/******************************************** section eight ************************************************/
+.eight{
+    background-color: #F3F3F3;
+    padding: 50px 0px 120px 0;
+}
+
+.have-a span{
+    color: black;
+    background-image: url(images/get\ background.png);
+    background-repeat: no-repeat;
+    padding: 15px;
+    background-size: contain;
+}
+.eight-one{
+    padding-top: 40px;
+    position: relative;
+}
+.eight-one p {
+    font-size: 12px;
+    padding-bottom: 37px;
+}
+.eight-one-one{
+    background-color: white;
+    padding: 15px;
+       border-radius: 30px;
+}
+.eight-one img{
+    position: absolute;
+    width: 70px;
+    top: 179px;
+    right: 111px;
+}
+.eight-one i{
+    color: #FFA800;
+    font-size: 25px;
+}
+.eight-one-one:hover{
+    background-color: #FFA800;
+    color: white;
+}
+
+
+.eight-two{
+    padding-top: 40px;
+    position: relative;
+}
+.eight-two p {
+    font-size: 12px;
+    padding-bottom: 37px;
+}
+.eight-two-two{
+    background-color: white;
+    padding: 15px;
+       border-radius: 30px;
+}
+
+.eight-two-two:hover{
+    background-color: #FFA800;
+    color: white;
+}
+.eight-two img{
+    position: absolute;
+    width: 70px;
+    top: 179px;
+    right: 111px;
+}
+.eight-two i{
+    color: #FFA800;
+    font-size: 25px;
+}
+
+
+
+.eight-three{
+    padding-top: 40px;
+    position: relative;
+}
+.eight-three p {
+    font-size: 12px;
+    padding-bottom: 37px;
+}
+
+.eight-three-three{
+    background-color: white;
+    padding: 15px;
+       border-radius: 30px;
+}
+.eight-three img{
+    position: absolute;
+    width: 70px;
+    top: 179px;
+    right: 111px;
+}
+.eight-three i{
+    color: #FFA800;
+    font-size: 25px;
+}
+.eight-three-three:hover{
+    background-color: #FFA800;
+    color: white;
+}
+
+
+.slick-initialized .slick-slide {
+    display: block;
+    padding: 15px;
+}
+
+.eight-slider .slick-dots li.slick-active button:before {
+    opacity: .75;
+    color: #ffa800;
+    background-color: #FFA800;
+    border-radius: 10px;
+}
+.eight-slider .slick-dots li button:before {
+    opacity: .75;
+    border: 1px solid #FFA800;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.eight-slider .slick-dots li button:before {
+    font-size: 0;
+ }
+ ul.slick-dots {
+    bottom: -65px;
+}
+
+
+
+/******************************************** section nine ************************************************/
+
+
+.nine {
+    background: #0E0239;
+    border-bottom: 1px solid #222222;
+    padding: 60px 0 30px 0;
+}
+.nine-one h1 {
+    font-size: 26px;
+    color: white;
+}
+
+.nine span{
+    color: white;
+    background-image: url(images/get\ background.png);
+    background-repeat: no-repeat;
+    padding: 20px 1px 15px 0px;
+    background-size: contain;
+}
+.nine-one p{
+    font-size: 15px;
+    line-height: 24px;
+    margin-bottom: 0;
+   padding: 10px 0;
+    color: #fff;
+}
+
+.nine-one li{
+    list-style: none;
+    margin-left: -29px;
+}
+.nine-one a{
+    color: white;
+    text-decoration: none;
+    margin-left: 5px;
+}
+.nine-one a:hover{
+    color: white;
+}
+.nine-one i{
+    color: white;
+}
+
+.fb a{
+    font-size: 20px;
+    padding: 5px 9px;
+    border-radius: 40px;
+    width: 10px;
+    height: 5px;
+}
+.fb a:hover{
+    background-color: #FFA800;
+    border-radius: 30px;
+}
+.fb i:hover{
+ color: #000;
+}
+
+.useful h4 {
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    position: relative;
+    padding-bottom: 12px;
+    padding-top: 8px;
+}
+.useful li{
+    list-style: none;
+    margin-left: -31px;
+}
+.useful a{
+    font-size: 14px;
+    text-decoration: none;
+    color: white;
+    line-height: 2.2;
+}
+.useful a:hover{
+    color: #FFA800;
+}
+.news h4 {
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    position: relative;
+    padding-bottom: 12px;
+    padding-top: 8px;
+}
+.news p {
+    color: #fff;
+    font-size: 14px;
+}
+.sub{
+    position: relative;
+     border-radius: 4px;
+     margin-top: 30px;
+    background: #fff;
+    padding: 6px 10px;
+}
+.news form input[type=email]{
+    border: 0;
+    padding: 4px;
+    
+}
+.news form input[type=submit]{
+    border: 0;
+    padding: 10px 28px;
+    background-color: #FFA800;
+    position: absolute;
+    top: 0px;
+    color: white;
+    font-weight: 500;
+    }
+    .nine img{
+        width: 100%;
+        margin-top: 30px;
+    }
+
+    .nine hr{
+       margin-top: 40px;
+        width: 100%;
+        color: white;   
+    }
+
+
+    /*__________________________________ for mobile________________________________________________________ */
+@media only screen and (max-width:767px){
+    html,body{
+        overflow-x: hidden;
+    }
+    /*__________________________ one _____________________________________ */
+    .one {
+        background: none;
+    }
+    .navbar-light .navbar-toggler {
+        border-color: white !important;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        color: #ffa801 !important;
+        padding: 19px !important;
+        margin-left: -7px;
+        font-size: 12px;
+    }
+
+    /*__________________________ two _____________________________________ */
+    .two{
+        background-image: none;
+    }
+    .right-two h1 {
+        padding-top: 40px;
+    }
+    .original-one {
+        width: 111%;
+        height: 94%;
+        padding-bottom: 18px;
+    }
+    .original-two {
+        width: 111%;
+        height: 101%;
+        padding-bottom: 18px;
+    }
+    .original-three {
+        width: 111%;
+        height: 103%;
+        padding-bottom: 18px;
+    }
+
+    /*__________________________ three _____________________________________ */
+    .team-up {
+        background-color: white;
+    }
+    .team-two{
+        display: none;
+    }
+    ul.slick-dots {
+        bottom: -44px;
+    }
+    .history {
+        padding: 20px 0 0 15px;
+    }
+/*__________________________ four _____________________________________ */
+.types br{
+    display: none;
+}
+    .nav img {
+        width: 86px;
+        top: -12px;
+    }
+    .nav-pills .nav-link {
+        font-size: 16px;
+        padding: 19px 107px;
+       }
+       .tab-pane p {
+        padding: 35px 40px 30px 40px;
+    }
+    .hire2 a {
+        padding: 15px 101px;
+        margin-left: 24px;
+    }
+    .hire2 {
+        padding: 0px 0 209px 40px;
+    }
+    div#v-pills-home img {
+        width: 270px;
+        top: 316px;
+        right: 19px;
+    }
+    #v-pills-home {
+        position: relative;
+        margin-top: 17px;
+    }
+    
+/*__________________________ five _____________________________________ */
+    .five {
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        padding: 70px 0px;
+    }
+    .ask h2 {
+        margin-left: 48px;
+    }
+    .call {
+        margin-left: 20px;
+    }
+    .call1 a {
+        padding: 15px 30px;
+    }
+    .call2 a {
+        padding: 15px 30px;
+    }
+
+    /*__________________________ seven _____________________________________ */
+    .cal1 {
+        padding: 0;
+        margin: 11px 0;
+    }
+
+    .tm h5 {
+        font-size: 26px;
+        text-align: center;
+        padding: 23px 0 25px 0;
+    }
+    .time h2 {
+        text-align: center;
+        padding-top: 2px;
+        font-size: 45px;
+    }
+    .mm p {
+        text-align: center;
+    }
+    .mm {   
+        text-align: center;
+    }
+    .mm h4 {
+        font-size: 21px;
+    }
+    .mm span {
+        font-size: 26px;
+    }
+    .hire-second {
+        text-align: center;
+    }
+    .hire-second a {
+        padding: 15px 65px;
+    }
+
+/*__________________________ eight _____________________________________ */
+    .eight-one img {
+        position: absolute;
+        width: 79px;
+        top: 201px;
+        right: 141px;
+        padding-top: 10px;
+    }
+    .eight-one p {
+        font-size: 16px;
+        padding-bottom: 42px;
+    }
+    .eight-two img {
+        position: absolute;
+        width: 75px;
+        top: 212px;
+        right: 145px;
+        padding-top: 10px;
+    }
+    .eight-two p {
+        font-size: 17px;
+        padding-bottom: 42px;
+    }
+    .eight-three img {
+        position: absolute;
+        width: 79px;
+        top: 201px;
+        right: 141px;
+        padding-top: 10px;
+    }
+    .eight-three p {
+        font-size: 16px;
+        padding-bottom: 42px;
+    }
+    .slick-slide img {
+        width: 65px;
+        display: block;
+        margin: 39px -30px;
+    }
+
+/*__________________________ nine _____________________________________ */
+    .nine-one {
+        text-align: center;
+    }
+    .useful {
+        text-align: center;
+    }
+    .news {
+        text-align: center;
+    }
+    .news form input[type=submit] {
+        padding: 10px 18px;
+    }
+    .sub {
+        width: 210px;
+    }
+    .news form input[type=submit] {
+        width: 96px;
+    }
+}
+
+/* kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk tablet  00000000000000000000000000000000000000000000 */
+@media only screen and (min-width:768px) and (max-width:991px){
+   /**************************************  one ************************************************* */
+   .one{
+       background-image: none;
+   }
+   .navbar-light .navbar-nav .nav-link {
+    color: #0E0239 !important;
+    padding: 9px !important;
+    font-size: 12px;
+}
+   .get a {
+    display: none;
+}
+
+/**************************************  two ************************************************* */
+.two{
+    background-image: none;
+}
+
+/**************************************  three ************************************************* */
+.team-up { 
+    background-color: white;
+}
+.team-two{
+    display: none;
+}
+.team-one {
+    margin-left: 24%;
+}
+ul.slick-dots {
+    bottom: -44px;
+}
+
+/**************************************  four ************************************************* */
+.types.text-center br {
+    display: none;
+}
+div#v-pills-home img {
+    width: 300px;
+    position: absolute;
+    top: 191px;
+    right: 0;
+}
+
+
+/**************************************  eight ************************************************* */
+.eight-one p {
+    font-size: 19px;
+    padding-bottom: 37px;
+}
+.eight-one img {
+    position: absolute;
+    width: 86px;
+    top: 197px;
+    right: 296px;
+}
+.eight-two p {
+    font-size: 19px;
+    padding-bottom: 37px;
+}
+.eight-two img {
+    position: absolute;
+    width: 86px;
+    top: 197px;
+    right: 296px;
+}
+.eight-three p {
+    font-size: 19px;
+    padding-bottom: 37px;
+}
+.eight-three img {
+    position: absolute;
+    width: 86px;
+    top: 197px;
+    right: 296px;
+}
+}
